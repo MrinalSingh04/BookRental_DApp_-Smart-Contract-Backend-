@@ -1,6 +1,8 @@
-# BookRental DApp (Smart Contract Backend)
+# Book Lending DApp (Smart Contract Backend)
 
-A **decentralized library/book rental system** built on **Ethereum (EVM)** using **Solidity** and **Foundry**. This smart contract allows users to list books, rent them with deposits, calculate late penalties, and withdraw funds securely. Includes owner/admin controls like pausing the contract and managing books.
+Live : https://booklendingdapp.vercel.app/
+
+A **decentralized library/book lending system** built on **Ethereum (EVM)** using **Solidity** and **Foundry**. This smart contract allows users to list books, rent them with deposits, calculate late penalties, and withdraw funds securely. Includes owner/admin controls like pausing the contract and managing books.
 
 ---
 
